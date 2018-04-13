@@ -1,4 +1,4 @@
-# analytics-dashboard
+# dashboard
 
 Source: https://medium.com/@abhinemani/government-dashboards-what-ought-we-do-b0dcc58f299d
 
